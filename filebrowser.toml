@@ -1,0 +1,16 @@
+# fb config file
+
+port=8082
+baseURL=""
+address=""
+log="stdout"
+database="/config/database.db"
+root="/myfiles"
+cert=""
+key=""
+index=""
+index_interval=3600
+thumb=false
+thumb_video=false
+cache_root=""
+
